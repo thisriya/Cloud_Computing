@@ -1,0 +1,7 @@
+
+    Quantum computing is the use of quantum-mechanical phenomena to perform computation.
+    A quantum computer uses qubits which can be in superposition of states.
+    Python is a popular programming language for quantum computing with libraries like Qiskit.
+    The Bloch sphere is a representation of a qubit's quantum state.
+    Riya Singh is a web developer.
+    
