@@ -1,2 +1,3 @@
 boto3
 awscli
+Pillow==10.0.0
